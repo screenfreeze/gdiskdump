@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Gdiskdump
+_Comment=Gdiskdump application
+Categories=GNOME;Utility;
+Exec=gksu gdiskdump
+Icon=/usr/share/gdiskdump/media/gdiskdump.svg
+Terminal=false
+Type=Application

@@ -1,0 +1,23 @@
+Source: gdiskdump
+Section: utils
+Priority: extra
+Build-Depends: python,
+ debhelper
+Maintainer: Andreas Wilhelm <andywilhelm@online.de>
+Standards-Version: 3.9.2
+Hompage: https://launchpad.net/gdiskdump
+XS-Python-Version: current
+
+Package: gdiskdump
+Architecture: all
+XB-Python-Version: ${python:Versions}
+Depends: ${misc:Depends},
+ python(>=2.6),
+ python-gobject,
+ python-gtk2,
+ python-notify,
+ yelp,
+ gksu
+Description: Graphical Front-End for dd (diskdump)
+ Tool to dump (clone/image) Files, Disks, Partitions with the dd Command
+ over a GUI

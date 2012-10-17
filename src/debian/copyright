@@ -1,0 +1,15 @@
+Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=135
+Name: gdiskdump
+Maintainer: Andreas Wilhelm <andywilhelm@online.de>
+Source: https://launchpad.net/gdiskdump
+
+Files: *
+Copyright: (C) 2011 Andreas Wilhelm <andywilhelm@online.de>
+Copyright: (C) 2011 Andreas Wilhelm <andywilhelm@online.de>\n"
+Copyright: (C) 2011 Andreas Wilhelm &lt;andywilhelm@online.de&gt;
+Copyright: (C) 2011 Andreas Wilhelm &lt;andywilhelm@online.de&gt;</property>
+Copyright: (C) 2011 Rosetta Contributors and Canonical Ltd 2011
+Copyright: (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+License: GPL-2
+ The full text of the GPL is distributed in
+ /usr/share/common-licenses/GPL-2 on Debian systems.

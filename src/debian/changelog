@@ -1,0 +1,5 @@
+gdiskdump (0.8-1) unstable; urgency=low
+
+  * Initial release (with gzip support)
+
+ -- Andreas Wilhelm <andywilhelm@online.de>  Sat, 19 Nov 2011 16:10:36 +0100

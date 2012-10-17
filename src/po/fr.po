@@ -1,0 +1,235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gdiskdump\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-31 22:46+0200\n"
+"PO-Revision-Date: 2010-09-01 14:46+0000\n"
+"Last-Translator: Guilherme Lindner <Unknown>\n"
+"Language-Team: French <fr@li.org>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:1
+msgid "1024"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:2
+msgid "Advanced Settings"
+msgstr "Paramètres avancés"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:3
+msgid "Blocks"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:4
+msgid "Bytes"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:5
+msgid "Chosen Output has not enough free Space available"
+msgstr "La sortie choisie n'a pas suffisamment d'espace libre disponible"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:6
+msgid "Disk Space"
+msgstr "Espace disque"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:7 ../gdiskdump/GdiskdumpWindow.py:113
+#: ../gdiskdump/GdiskdumpWindow.py:124
+msgid "File"
+msgstr "Fichier"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:8 ../gdiskdump.desktop.in.h:1
+msgid "Gdiskdump"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:9 ../gdiskdump/GdiskdumpWindow.py:115
+#: ../gdiskdump/GdiskdumpWindow.py:126
+msgid "Harddrive"
+msgstr "Disque dur"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:10
+msgid ""
+"No Format selected\n"
+"Please choose a Format from above first"
+msgstr ""
+"Pas de format sélectionné\n"
+"Merci de choisir un format ci-dessus au préalable"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:12 ../gdiskdump/GdiskdumpWindow.py:117
+#: ../gdiskdump/GdiskdumpWindow.py:128
+msgid "Partition"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:13
+msgid "Select Input Format:"
+msgstr "Sélectionner le type de la source:"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:14
+msgid "Select Input Harddisk:"
+msgstr "Sélectionner un disque dur source:"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:15
+msgid "Select Input Partition:"
+msgstr "Sélectionner une partition source:"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:16
+msgid "Select Output Format:"
+msgstr "Sélectionner le type de la destination:"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:17
+msgid "Select Output Harddisk:"
+msgstr "Sélectionner un disque dur de destination:"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:18
+msgid "Select Output Partition:"
+msgstr "Sélectionner une partition de destination:"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:19
+msgid "Size"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:20
+msgid "System"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:21
+msgid ""
+"The Process will overwrite the Data on the selected Output\n"
+"\n"
+"Before copying a Partition or Harddisk, be sure that the Devices are "
+"unmounted"
+msgstr ""
+"L'opération va écraser les données de la destination sélectionnée\n"
+"\n"
+"Avant de copier une partition ou un disque dur, soyez certain que les "
+"périphériques ne sont pas montés"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:24
+msgid "Warning:"
+msgstr "Attention:"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:25
+msgid "_File"
+msgstr "_Fichier"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:26
+msgid "_Help"
+msgstr "_Aide"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:27
+msgid "bs="
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:28
+msgid "count="
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:29
+msgid "dumping from"
+msgstr "Copie depuis"
+
+#: ../data/ui/GdiskdumpWindow.ui.h:30
+msgid "ibs="
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:31
+msgid "label"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:32
+msgid "obs="
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:33
+msgid "page 0"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:34
+msgid "page 1"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:35
+msgid "page 2"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:36
+msgid "page 3"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:37
+msgid "page 4"
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:38
+msgid "seek="
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:39
+msgid "skip="
+msgstr ""
+
+#: ../data/ui/GdiskdumpWindow.ui.h:40
+msgid "to"
+msgstr "vers"
+
+#: ../data/ui/AboutGdiskdumpDialog.ui.h:1
+msgid ""
+"# Copyright (C) 2011 Andreas Wilhelm <andywilhelm@online.de>\n"
+"# This program is free software: you can redistribute it and/or modify it \n"
+"# under the terms of the GNU General Public License version 2, as "
+"published \n"
+"# by the Free Software Foundation.\n"
+"# \n"
+"# This program is distributed in the hope that it will be useful, but \n"
+"# WITHOUT ANY WARRANTY; without even the implied warranties of \n"
+"# MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR \n"
+"# PURPOSE.  See the GNU General Public License for more details.\n"
+"# \n"
+"# You should have received a copy of the GNU General Public License along \n"
+"# with this program.  If not, see <http://www.gnu.org/licenses/>.\n"
+msgstr ""
+
+#: ../data/ui/AboutGdiskdumpDialog.ui.h:14
+msgid ""
+"GUI for dd (diskdump)\n"
+"clone or image Partitions,Disks and Files"
+msgstr ""
+
+#: ../gdiskdump/GdiskdumpWindow.py:55
+msgid "All Files"
+msgstr ""
+
+#: ../gdiskdump/GdiskdumpWindow.py:152 ../gdiskdump/GdiskdumpWindow.py:161
+msgid "selected"
+msgstr ""
+
+#: ../gdiskdump/GdiskdumpWindow.py:197
+msgid "not enough free space available"
+msgstr ""
+
+#: ../gdiskdump/GdiskdumpWindow.py:234
+msgid "dumping aborted"
+msgstr ""
+
+#: ../gdiskdump/GdiskdumpWindow.py:271
+msgid "dumping finished"
+msgstr ""
+
+#: ../gdiskdump/GdiskdumpWindow.py:272
+msgid "The dumping Process finished succesfully."
+msgstr ""
+
+#: ../gdiskdump/__init__.py:34
+msgid "Show debug messages (-vv debugs gdiskdump_lib also)"
+msgstr ""
+
+#: ../gdiskdump.desktop.in.h:2
+msgid "Gdiskdump application"
+msgstr "Gdiskdump"
